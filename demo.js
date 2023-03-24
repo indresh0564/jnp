@@ -1,1 +1,2 @@
-console.log('i love jnp');
+ console.log('i hate jnp');
+
