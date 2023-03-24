@@ -1,2 +1,2 @@
- console.log('i hate jnp');
+ console.log('i dont love git');
 
